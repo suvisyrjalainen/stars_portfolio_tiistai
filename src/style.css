@@ -29,3 +29,8 @@ body{
   margin-left: auto;
   margin-right: auto;
 }
+
+.fluid_container{
+  margin: auto;
+  padding: 30px;
+}

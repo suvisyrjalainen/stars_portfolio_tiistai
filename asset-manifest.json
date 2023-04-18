@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stars_portfolio_tiistai/static/css/main.b53cac11.css",
+    "main.js": "/stars_portfolio_tiistai/static/js/main.6cc60066.js",
+    "index.html": "/stars_portfolio_tiistai/index.html",
+    "main.b53cac11.css.map": "/stars_portfolio_tiistai/static/css/main.b53cac11.css.map",
+    "main.6cc60066.js.map": "/stars_portfolio_tiistai/static/js/main.6cc60066.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b53cac11.css",
+    "static/js/main.6cc60066.js"
+  ]
+}

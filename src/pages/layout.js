@@ -7,13 +7,13 @@ const Layout = () => {
     <div class="container-fluid">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <Link class="nav-link" to="/">Portfolio</Link>
+          <Link class="nav-link" to="/stars_portfolio_tiistai">Portfolio</Link>
         </li>
        <li class="nav-item">
-          <Link class="nav-link" to="/cv">CV</Link>
+          <Link class="nav-link" to="/stars_portfolio_tiistai/cv">CV</Link>
         </li>
         <li class="nav-item">
-          <Link class="nav-link" to="/contact">contact</Link>
+          <Link class="nav-link" to="/stars_portfolio_tiistai/contact">contact</Link>
         </li>
       </ul>
     </div>

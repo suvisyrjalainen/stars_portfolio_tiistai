@@ -17,10 +17,10 @@ const myPage = <div>
 <Header/>
 <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Layout />}>
-          <Route index element={<Home />} />
-          <Route path="cv" element={<Cv />} />
-          <Route path="contact" element={<Contact />} />
+        <Route path="/stars_portfolio_tiistai" element={<Layout />}>
+          <Route path = "/stars_portfolio_tiistai" element={<Home />} />
+          <Route path="/stars_portfolio_tiistai/cv" element={<Cv />} />
+          <Route path="/stars_portfolio_tiistai/contact" element={<Contact />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>
